@@ -1,0 +1,62 @@
+view package
+============
+
+Submodules
+----------
+
+view.autoComplete module
+------------------------
+
+.. automodule:: view.autoComplete
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+view.map module
+---------------
+
+.. automodule:: view.map
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+view.splash module
+------------------
+
+.. automodule:: view.splash
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+view.splashscreen module
+------------------------
+
+.. automodule:: view.splashscreen
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+view.ttkcalendar module
+-----------------------
+
+.. automodule:: view.ttkcalendar
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+view.winsettings module
+-----------------------
+
+.. automodule:: view.winsettings
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: view
+    :members:
+    :undoc-members:
+    :show-inheritance:

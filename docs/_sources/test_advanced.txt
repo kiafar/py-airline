@@ -1,0 +1,7 @@
+test_advanced module
+====================
+
+.. automodule:: test_advanced
+    :members:
+    :undoc-members:
+    :show-inheritance:

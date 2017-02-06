@@ -1,0 +1,78 @@
+data package
+============
+
+Submodules
+----------
+
+data.aircraft module
+--------------------
+
+.. automodule:: data.aircraft
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+data.airport module
+-------------------
+
+.. automodule:: data.airport
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+data.currency module
+--------------------
+
+.. automodule:: data.currency
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+data.data_storage module
+------------------------
+
+.. automodule:: data.data_storage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+data.fileIO module
+------------------
+
+.. automodule:: data.fileIO
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+data.fuelprice module
+---------------------
+
+.. automodule:: data.fuelprice
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+data.router module
+------------------
+
+.. automodule:: data.router
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+data.settings module
+--------------------
+
+.. automodule:: data.settings
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: data
+    :members:
+    :undoc-members:
+    :show-inheritance:

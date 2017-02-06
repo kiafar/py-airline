@@ -1,0 +1,46 @@
+ctrl package
+============
+
+Submodules
+----------
+
+ctrl.app module
+---------------
+
+.. automodule:: ctrl.app
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+ctrl.input_frame module
+-----------------------
+
+.. automodule:: ctrl.input_frame
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+ctrl.route_frame module
+-----------------------
+
+.. automodule:: ctrl.route_frame
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+ctrl.toolbar module
+-------------------
+
+.. automodule:: ctrl.toolbar
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: ctrl
+    :members:
+    :undoc-members:
+    :show-inheritance:

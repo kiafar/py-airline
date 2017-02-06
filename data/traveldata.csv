@@ -1,0 +1,4 @@
+mode,airports,travel_week,aircraft,shortest_route,shortest_dist,eco_route,eco_route_cost
+static,DUB OSD GZM MAT CTY,2016 Week 19,Airbus A319,"[0, 1, 2, 3, 4, 0]",26805.86887919158,[],-1
+static,DUB LYR IFN MSZ XGR,2016 Week 20,Boeing 777-300ER,"[0, 1, 2, 3, 4, 0]",29458.095622066092,"[0, 1, 2, 3, 4, 0]",180191.53289365658
+static,KKY KAO DNF MAT CTY,2016 Week 18,Boeing 777-300ER,"[0, 1, 2, 3, 4, 0]",28074.36853751149,"[0, 1, 2, 3, 4, 0]",142381.81542114852
